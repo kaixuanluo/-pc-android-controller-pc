@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Thu Aug 24 21:59:53 CST 2017
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=Socket_17_07_12_12_45_fat.jar
+manifest.mergeall=true
+manifest.mainclass=main.MainControllar
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=
