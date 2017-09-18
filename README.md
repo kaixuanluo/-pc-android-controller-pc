@@ -15,5 +15,6 @@
 4.runnig [优酷](http://v.youku.com/v_show/id_XMzAxNjQ5MTU3Mg==.html?spm=a2h3j.8428770.3416059.1)<br>
 5.devlope by MyEclipse. <br>
 
-
+![界面1](https://github.com/kaixuanluo/-pc-android-controller-pc/blob/master/201709182052.gif)
+![界面2](https://github.com/kaixuanluo/-pc-android-controller-pc/blob/master/201709182053.gif)
 
