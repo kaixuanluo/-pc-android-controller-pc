@@ -17,4 +17,5 @@
 
 ![界面1](https://github.com/kaixuanluo/-pc-android-controller-pc/blob/master/201709182052.gif)
 ![界面2](https://github.com/kaixuanluo/-pc-android-controller-pc/blob/master/201709182053.gif)
+![界面3](https://github.com/kaixuanluo/-pc-android-controller-pc/blob/master/201709182109.gif)
 
